@@ -15,9 +15,6 @@ module Minesweeper
 
     def seeding_bombs(num)
       @board.flatten.sample(num).each { |tile| tile.bombed = true }
-      # num.times do |i|
-      #   @board.sample.sample.bombed = true
-      # end
     end
 
     def [] pos

@@ -78,7 +78,3 @@ else
 end
 
 minesweeper.play
-
-
-
-
