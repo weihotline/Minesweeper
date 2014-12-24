@@ -1,5 +1,5 @@
 ## Minesweeper
-This is a traditional console interactive game: **minesweeper**. The game is implemented using pure Ruby code. 
+This is a traditional console interactive game: **minesweeper**. The game is implemented using pure Ruby code.
 
 ## Concepts
 * Class
@@ -27,3 +27,4 @@ This is a traditional console interactive game: **minesweeper**. The game is imp
 
 ## Disclaimer
 This application is intended as a demo of techniques for building game using Ruby. Please feel free to contact me at <weihotline@gmail.com> if you have any questions or concerns.
+
